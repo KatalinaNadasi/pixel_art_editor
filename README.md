@@ -1,6 +1,9 @@
 <h1 align="center">Welcome to pixel_art 👋</h1>
 <p>
-  Simple Wild Code School html workshop with vanilla JS to learn how manipulate javascript without too much code
+  🧰 Simple Wild Code School html workshop
+  🔨 with vanilla JS
+  🤔 to learn how to manipulate javascript
+  💡 without too much code
 </p>
 
 ## Show your support
